@@ -1,2 +1,2 @@
 # node-js
-repo ini untuk mencoba-coba
+repo ini program Backend API untuk akses Database MySQL
